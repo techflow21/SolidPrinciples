@@ -18,3 +18,5 @@ C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\refint
 C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.pdb
 C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.genruntimeconfig.cache
 C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\ref\SolidPrinciples.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\LiskovSubstitution.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\LiskovSubstitution.pdb

@@ -1,5 +1,6 @@
 ﻿using SingleResponsibilityLibrary;
 using OpenCloseLibrary;
+using LiskovSubstitution;
 
 namespace SolidPrinciples
 {
@@ -11,11 +12,24 @@ namespace SolidPrinciples
 
             SRlogic.Display();*/
 
-            OpenCloseLogic openCloseLogic = new();
+       ///////////////////////////////////////////////////////////
+
+            /*OpenCloseLogic openCloseLogic = new();
 
             openCloseLogic.OpenCloseDisplay();
             Console.WriteLine();
-            openCloseLogic.OpenCloseDisplay2();
+            openCloseLogic.OpenCloseDisplay2();*/
+
+      //////////////////////////////////////////////////////////
+
+            /*LiskovSubs liskov = new();
+
+            liskov.LiskovSubsDisplay();*/
+
+      //////////////////////////////////////////////////////////
+      
+
+
         }
 
     }

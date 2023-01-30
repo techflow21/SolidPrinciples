@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.deps.json
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\refint\LiskovSubstitution.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\LiskovSubstitution\obj\Debug\net6.0\ref\LiskovSubstitution.dll
