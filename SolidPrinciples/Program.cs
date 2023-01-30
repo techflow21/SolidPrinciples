@@ -1,6 +1,7 @@
 ﻿using SingleResponsibilityLibrary;
 using OpenCloseLibrary;
 using LiskovSubstitution;
+using InterfaceSegregationLibrary;
 
 namespace SolidPrinciples
 {
@@ -12,7 +13,7 @@ namespace SolidPrinciples
 
             SRlogic.Display();*/
 
-       ///////////////////////////////////////////////////////////
+        /////////////////////////////////////////////////////////
 
             /*OpenCloseLogic openCloseLogic = new();
 
@@ -20,15 +21,19 @@ namespace SolidPrinciples
             Console.WriteLine();
             openCloseLogic.OpenCloseDisplay2();*/
 
-      //////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////
 
             /*LiskovSubs liskov = new();
 
             liskov.LiskovSubsDisplay();*/
 
-      //////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////
       
+            /*InterfaceSegregation interfaceSegregation = new();
 
+            interfaceSegregation.InterfaceSegDisplay();*/
+
+        ///////////////////////////////////////////////////////
 
         }
 

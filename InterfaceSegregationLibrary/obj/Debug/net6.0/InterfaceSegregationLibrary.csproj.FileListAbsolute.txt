@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\bin\Debug\net6.0\InterfaceSegregationLibrary.deps.json
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\bin\Debug\net6.0\InterfaceSegregationLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\bin\Debug\net6.0\InterfaceSegregationLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\refint\InterfaceSegregationLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\InterfaceSegregationLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\InterfaceSegregationLibrary\obj\Debug\net6.0\ref\InterfaceSegregationLibrary.dll
