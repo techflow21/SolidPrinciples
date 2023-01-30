@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\bin\Debug\net6.0\OpenCloseLibrary.deps.json
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\bin\Debug\net6.0\OpenCloseLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\bin\Debug\net6.0\OpenCloseLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\refint\OpenCloseLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\OpenCloseLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\OpenCloseLibrary\obj\Debug\net6.0\ref\OpenCloseLibrary.dll

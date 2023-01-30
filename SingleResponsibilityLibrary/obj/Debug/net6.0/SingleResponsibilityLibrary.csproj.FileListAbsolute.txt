@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\bin\Debug\net6.0\SingleResponsibilityLibrary.deps.json
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\bin\Debug\net6.0\SingleResponsibilityLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\bin\Debug\net6.0\SingleResponsibilityLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\refint\SingleResponsibilityLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\SingleResponsibilityLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SingleResponsibilityLibrary\obj\Debug\net6.0\ref\SingleResponsibilityLibrary.dll
