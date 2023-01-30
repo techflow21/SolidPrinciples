@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "SolidPrinciples/1.0.0": {
         "dependencies": {
+          "DependencyInversionLibrary": "1.0.0",
           "InterfaceSegregationLibrary": "1.0.0",
           "LiskovSubstitution": "1.0.0",
           "OpenCloseLibrary": "1.0.0",
@@ -15,6 +16,11 @@
         },
         "runtime": {
           "SolidPrinciples.dll": {}
+        }
+      },
+      "DependencyInversionLibrary/1.0.0": {
+        "runtime": {
+          "DependencyInversionLibrary.dll": {}
         }
       },
       "InterfaceSegregationLibrary/1.0.0": {
@@ -41,6 +47,11 @@
   },
   "libraries": {
     "SolidPrinciples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyInversionLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

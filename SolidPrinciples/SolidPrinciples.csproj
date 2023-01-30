@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DependencyInversionLibrary\DependencyInversionLibrary.csproj" />
     <ProjectReference Include="..\InterfaceSegregationLibrary\InterfaceSegregationLibrary.csproj" />
     <ProjectReference Include="..\LiskovSubstitution\LiskovSubstitution.csproj" />
     <ProjectReference Include="..\OpenCloseLibrary\OpenCloseLibrary.csproj" />

@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\bin\Debug\net6.0\DependencyInversionLibrary.deps.json
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\bin\Debug\net6.0\DependencyInversionLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\bin\Debug\net6.0\DependencyInversionLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\refint\DependencyInversionLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\DependencyInversionLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\DependencyInversionLibrary\obj\Debug\net6.0\ref\DependencyInversionLibrary.dll

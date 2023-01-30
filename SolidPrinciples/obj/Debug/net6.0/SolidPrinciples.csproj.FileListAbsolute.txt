@@ -22,3 +22,5 @@ C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\Liskov
 C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\LiskovSubstitution.pdb
 C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\InterfaceSegregationLibrary.dll
 C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\InterfaceSegregationLibrary.pdb
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\DependencyInversionLibrary.dll
+C:\Users\HP\Desktop\NewM\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\DependencyInversionLibrary.pdb

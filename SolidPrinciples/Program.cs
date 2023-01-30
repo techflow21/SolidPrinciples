@@ -2,6 +2,7 @@
 using OpenCloseLibrary;
 using LiskovSubstitution;
 using InterfaceSegregationLibrary;
+using DependencyInversionLibrary;
 
 namespace SolidPrinciples
 {
@@ -35,6 +36,9 @@ namespace SolidPrinciples
 
         ///////////////////////////////////////////////////////
 
+            DependencyInversion dependencyInversion = new();
+
+            dependencyInversion.DependencyInversionDisplay();
         }
 
     }
