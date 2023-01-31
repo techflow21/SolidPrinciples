@@ -13,8 +13,6 @@ public class SingleResponsibilityLogic
         };
         customer.DisplayCustomerInfo();
 
-        Console.WriteLine();
-
         Order order = new Order
         {
             OrderNumber = 1,
@@ -26,6 +24,7 @@ public class SingleResponsibilityLogic
     }
 }
 
+
 // Class for handling customer information
 public class Customer
 {
@@ -36,7 +35,7 @@ public class Customer
 
     public void DisplayCustomerInfo()
     {
-        Console.WriteLine($"\n\t Name: {Name}\n\t Address: {Address}\n\t Phone Number: {PhoneNumber}");
+        Console.WriteLine($"\n\t Name: {Name}\n\t Address: {Address}\n\t Phone Number: {PhoneNumber}\n");
     }
 }
 
@@ -52,7 +51,7 @@ public class Order
 
     public void DisplayOrderInfo()
     {
-        Console.WriteLine($"\n\t Order Number: {OrderNumber}\n\t Product Name: {ProductName}\n\t Quantity: {Quantity}\n\t Price: {Price}");
+        Console.WriteLine($"\n\t Order Number: {OrderNumber}\n\t Product Name: {ProductName}\n\t Quantity: {Quantity}\n\t Price: {Price}\n");
     }
 }
 
