@@ -42,8 +42,7 @@ class Student
 
     public virtual void PrintStudent()
     {
-        Console.WriteLine("Name: {0}", Name);
-        Console.WriteLine("Grade: {0}", Grade);
+        Console.WriteLine($"Name: {Name}\nGrade: {Grade}");
     }
 }
 
@@ -55,6 +54,18 @@ class SeniorStudent : Student
     {
         base.PrintStudent();
         Console.WriteLine("Graduation Year: {0}", GraduationYear);
+    }
+}
+
+class GraduateStudent : Student
+{
+    public DateTime DateGraduated { get; set; }
+
+    public override void PrintStudent()
+    {
+        base.PrintStudent();
+
+        Console.WriteLine("Graduated on: {0}", DateGraduated);
     }
 }
 
@@ -96,5 +107,4 @@ class Order
         _payment.ProcessPayment();
     }
 }
-
 
