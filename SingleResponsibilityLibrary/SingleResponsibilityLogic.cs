@@ -54,7 +54,3 @@ public class Order
         Console.WriteLine($"\n\t Order Number: {OrderNumber}\n\t Product Name: {ProductName}\n\t Quantity: {Quantity}\n\t Price: ${Price}\n");
     }
 }
-
-
-
-// In the above code, the Customer class is responsible for handling customer information, and the Order class is responsible for handling customer orders. Each class has a single responsibility and does not handle tasks that are not related to its specific purpose. This follows the Single Responsibility Principle and makes the code easier to maintain and understand.
