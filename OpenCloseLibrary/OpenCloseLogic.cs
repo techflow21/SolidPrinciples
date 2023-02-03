@@ -12,9 +12,6 @@ public class OpenCloseLogic
         student.PrintStudent();
 
 
-        Console.WriteLine();
-
-
         SeniorStudent senior = new SeniorStudent
         {
             Name = "Emmanuel Joe",

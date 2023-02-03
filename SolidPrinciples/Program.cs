@@ -10,17 +10,19 @@ namespace SolidPrinciples
     {
         static void Main(string[] args)
         {
-            SingleResponsibilityLogic SRlogic = new();
+            /////////////////////////////////////////////////////////
 
-            SRlogic.Display();
+            /*SingleResponsibilityLogic SRlogic = new();
+
+            SRlogic.Display();*/
 
             /////////////////////////////////////////////////////////
 
-            /*OpenCloseLogic openCloseLogic = new();
+            OpenCloseLogic openCloseLogic = new();
 
             openCloseLogic.OpenCloseDisplay();
-            Console.WriteLine();
-            openCloseLogic.OpenCloseDisplay2();*/
+            
+            openCloseLogic.OpenCloseDisplay2();
 
             ////////////////////////////////////////////////////////
 
@@ -36,9 +38,11 @@ namespace SolidPrinciples
 
             ///////////////////////////////////////////////////////
 
-            DependencyInversion dependencyInversion = new();
+            /*DependencyInversion dependencyInversion = new();
 
-            dependencyInversion.DependencyInversionDisplay();
+            dependencyInversion.DependencyInversionDisplay();*/
+
+            //////////////////////////////////////////////////////
         }
 
     }

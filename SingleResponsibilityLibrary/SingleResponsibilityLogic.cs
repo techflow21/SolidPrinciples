@@ -51,7 +51,7 @@ public class Order
 
     public void DisplayOrderInfo()
     {
-        Console.WriteLine($"\n\t Order Number: {OrderNumber}\n\t Product Name: {ProductName}\n\t Quantity: {Quantity}\n\t Price: {Price}\n");
+        Console.WriteLine($"\n\t Order Number: {OrderNumber}\n\t Product Name: {ProductName}\n\t Quantity: {Quantity}\n\t Price: ${Price}\n");
     }
 }
 
