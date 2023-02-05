@@ -66,11 +66,6 @@ class GradStudent : Student
 }
 
 
-//In this example, the abstract Student class defines the CalculateGPA method that must be implemented by all subclasses.The UndergradStudent and GradStudent classes inherit from the Student class and implement the CalculateGPA method.This demonstrates the Liskov Substitution Principle because any instance of a subclass can be used wherever an instance of the base class is expected, and the program will still function correctly.
-
-/// /////////////////////////////////////////////////////////////////////////////////////////////////////
-//In this example, the IProduct interface defines the Name, Price, and CalculateTax properties and methods that must be implemented by all subclasses.The Book and Electronic classes inherit from the IProduct interface and implement the properties and methods.The ShoppingCart class accepts an array of IProduct instances and calculates the total by summing the Price and CalculateTax of each product.This demonstrates the Liskov Substitution Principle because any instance of a subclass can be used wherever an instance of the IProduct interface is expected, and the program will still function correctly.
-
 interface IProduct
 {
     string Name { get; set; }
