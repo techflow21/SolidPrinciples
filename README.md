@@ -16,3 +16,6 @@ In the second example, the IProduct interface defines the Name, Price, and Calcu
 
 # 4. For Interface Segregation Principle (ISP)
 In this implementation, the IProduct interface defines the Name and Price properties that must be implemented by all subclasses.The IElectronic and IBook interfaces inherit from the IProduct interface and add the WarrantyMonths and Author properties, respectively. The Electronic and Book classes implement the IElectronic and IBook interfaces, respectively.The ShoppingCart class accepts an array of IProduct instances and calculates the total by summing the Price of each product.This demonstrates the Interface Segregation Principle because each interface is specific to a particular type of product, and classes only need to implement the properties and methods that are relevant to their type.
+
+# 5. For Dependency Inversion Principle (DIP)
+In this implementation, the ShoppingCart class depends on an IPayment interface, rather than a concrete implementation of the CreditCard or PayPal classes.This allows the ShoppingCart class to work with any implementation of the IPayment interface, even if it changes in the future.This demonstrates the Dependency Inversion Principle because high-level modules, such as the ShoppingCart class, depend on abstractions, rather than on concrete implementations.
