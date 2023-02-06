@@ -1,7 +1,6 @@
 ﻿
 namespace DependencyInversionLibrary;
 
-//In this example, the ShoppingCart class depends on an IPayment interface, rather than a concrete implementation of the CreditCard or PayPal classes.This allows the ShoppingCart class to work with any implementation of the IPayment interface, even if it changes in the future.This demonstrates the Dependency Inversion Principle because high-level modules, such as the ShoppingCart class, depend on abstractions, rather than on concrete implementations.
 
 public class DependencyInversion
 {
