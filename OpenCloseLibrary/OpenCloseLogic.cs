@@ -1,4 +1,6 @@
-﻿namespace OpenCloseLibrary;
+﻿using System.Globalization;
+
+namespace OpenCloseLibrary;
 
 public class OpenCloseLogic
 {
@@ -19,7 +21,18 @@ public class OpenCloseLogic
             GraduationYear = 2022
         };
         senior.PrintStudent();
+
+
+        GraduateStudent graduate = new GraduateStudent
+        {
+            Name = "Eniola Sade",
+            Grade = "C",
+            DateGraduated = DateTime.Parse("10 / 12 / 2020")
+        };
+        graduate.PrintStudent();
     }
+
+ /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     public void OpenCloseDisplay2()
     {
@@ -46,6 +59,7 @@ class Student
     }
 }
 
+
 class SeniorStudent : Student
 {
     public int GraduationYear { get; set; }
@@ -56,6 +70,7 @@ class SeniorStudent : Student
         Console.WriteLine("Graduation Year: {0}", GraduationYear);
     }
 }
+
 
 class GraduateStudent : Student
 {
@@ -70,7 +85,7 @@ class GraduateStudent : Student
 }
 
 
-///// Another Implementation //////////
+///////////////////////////////////// Another Implementation /////////////////////////////////////////
 
 interface IPayment
 {

@@ -1,5 +1,4 @@
-﻿
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 namespace LiskovSubstitution;
 
@@ -10,7 +9,7 @@ public class LiskovSubs
         Student[] students = new Student[]
         {
             new UndergradStudent { Name = "Johnson Ade", Grade = "A", Credits = 120 },
-            new GradStudent { Name = "Janet Boi", Grade = "B", ResearchArea = "AI" }
+            new GradStudent { Name = "Janet Boi", Grade = "B", ResearchArea = "Automation Tech" }
         };
 
         foreach (Student student in students)
@@ -18,12 +17,34 @@ public class LiskovSubs
             Console.WriteLine($" Name: {student.Name}\n GPA: {student.CalculateGPA()}\n");
         }
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        /*List<Student> students2 = new List<Student>()
+        {
+            new UndergradStudent { Name = "Mary Ade", Grade = "D", Credits = 80 },
+            new GradStudent { Name = "Bako", Grade = "B", ResearchArea = "Software Engineering" }
+        };
+
+        foreach (Student std in students2)
+            Console.WriteLine($" Name: {std.Name}\n GPA: {std.CalculateGPA()}\n");*/
+ 
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        
+        ///// To Check if implentation above is valid ////// 
+        
+        /*GradStudent gradStudent = new()
+        {
+            Name = "Babalola",
+            Grade = "C",
+            ResearchArea = "Economics"
+        };
+
+        Console.WriteLine($"Name: {gradStudent.Name}\nGrade: {gradStudent.Grade}\nResearchArea: {gradStudent.ResearchArea}\nCGPA: {gradStudent.CalculateGPA()}\n");
+*/
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
         IProduct[] products = new IProduct[]
         {
-            new Book { Name = "Learn C# in One Day", Price = 19.99M },
-            new Electronic { Name = "Smartphone", Price = 499.99M }
+            new Book { Name = "Learn C# in One Day", Price = 19.50M },
+            new Electronic { Name = "Smartphone", Price = 499.02M }
         };
 
         ShoppingCart cart = new ShoppingCart(products);
@@ -31,9 +52,10 @@ public class LiskovSubs
 
         Console.WriteLine("Total: {0:C2}", total);
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     }
 }
+
 
 abstract class Student
 {
@@ -64,6 +86,7 @@ class GradStudent : Student
         return (Grade == "A") ? 4 : 3;
     }
 }
+
 
 
 interface IProduct

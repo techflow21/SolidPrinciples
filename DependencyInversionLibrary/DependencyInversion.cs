@@ -11,7 +11,6 @@ public class DependencyInversion
         ShoppingCart cart = new ShoppingCart(payment, 99.99M);
         cart.CheckOut();
 
-        Console.ReadKey();
     }
 }
 

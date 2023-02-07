@@ -18,17 +18,17 @@ namespace SolidPrinciples
 
             /////////////////////////////////////////////////////////
 
-            OpenCloseLogic openCloseLogic = new();
+            /*OpenCloseLogic openCloseLogic = new();
 
             openCloseLogic.OpenCloseDisplay();
-            
-            openCloseLogic.OpenCloseDisplay2();
+            Console.WriteLine();
+            openCloseLogic.OpenCloseDisplay2();*/
 
             ////////////////////////////////////////////////////////
 
-            /*LiskovSubs liskov = new();
+            LiskovSubs liskov = new();
 
-            liskov.LiskovSubsDisplay();*/
+            liskov.LiskovSubsDisplay();
 
             ////////////////////////////////////////////////////////
 
