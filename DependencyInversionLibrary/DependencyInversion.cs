@@ -1,7 +1,6 @@
 ﻿
 namespace DependencyInversionLibrary;
 
-
 public class DependencyInversion
 {
     public void DependencyInversionDisplay()
@@ -55,5 +54,4 @@ public class ShoppingCart
         _payment.Pay(_amount);
     }
 }
-
 
