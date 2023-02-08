@@ -1,4 +1,3 @@
-
 # Implementation of SOLID Principles
 
 <h3> 1. For Single Responsibility Principle (SRP) </h3>
