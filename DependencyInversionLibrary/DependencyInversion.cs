@@ -54,4 +54,3 @@ public class ShoppingCart
         _payment.Pay(_amount);
     }
 }
-
